@@ -36,7 +36,6 @@ pip install -r requirements.txt
 1. Update **`app.py`** with your Text Analytics API key and endpoint:
 
 ```python
-pythonCopy code
 key = 'your_key'
 endpoint = 'your_endpoint'
 ```
